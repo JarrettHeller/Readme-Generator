@@ -10,7 +10,7 @@ This project creates a ReadMe file based off of the user's input
 * [Questions](#questions)
 
 ## Installation
-1. Instal project from GitHub
+1. Install project from GitHub
 2. make sure you have the required node files
 
 ## Usage
